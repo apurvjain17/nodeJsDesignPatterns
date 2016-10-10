@@ -1,0 +1,24 @@
+{
+  "name": "nodejsdesignpatterns",
+  "version": "1.0.0",
+  "description": "I am creating this project just to try out nodejs design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurvjain17/nodeJsDesignPatterns.git"
+  },
+  "keywords": [
+    "DesignPatterns",
+    "NodeJS",
+    "JS"
+  ],
+  "author": "apurvjain17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apurvjain17/nodeJsDesignPatterns/issues"
+  },
+  "homepage": "https://github.com/apurvjain17/nodeJsDesignPatterns#readme"
+}
